@@ -1,0 +1,26 @@
+.image {
+    display: block;
+    width: 100%;
+    max-width: 984px;
+    height: auto;
+    margin: 0 auto;
+    object-fit: cover;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+/* Tablet - 768px */
+@media screen and (max-width: 768px) {
+    .image {
+        width: 768px;
+        height: 480px;
+    }
+}
+
+/* Mobile - 320px */
+@media screen and (max-width: 320px) {
+    .image {
+        width: 320px;
+        height: 200px;
+    }
+}
