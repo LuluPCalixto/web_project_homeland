@@ -29,4 +29,4 @@ https://lulupcalixto.github.io/web_project_homeland/
 ---
 
 **Autor:** Lourdes Pérez Calixto  
-**Proyecto:** Sprint 5 - TripleTen
+**Proyecto:** Sprint 5-6 - TripleTen
