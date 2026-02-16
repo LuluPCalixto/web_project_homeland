@@ -1,0 +1,17 @@
+.places {
+  padding: 92px 0 48px;
+}
+
+/* Tablet - 768px */
+@media screen and (max-width: 1024px) {
+  .places {
+    padding: 72px 0 48px;
+  }
+}
+
+/* Mobile - 320px */
+@media screen and (max-width: 544px) {
+  .places {
+    padding: 50px 0 36px;
+  }
+}
